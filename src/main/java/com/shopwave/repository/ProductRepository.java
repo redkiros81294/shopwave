@@ -18,7 +18,7 @@ public interface ProductRepository extends JpaRepository<Product, Long> {
      * @param categoryId the category ID
      * @return list of products in the specified category
      */
-    List<Product> findByCategoryId(Long categoryId);
+    List<Product> findByCat_Id(Long categoryId);
 
     /**
      * Find all products with price less than or equal to the specified maximum price.
