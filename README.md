@@ -1,5 +1,10 @@
 # shopwaveStarter
 
+## Student Information
+
+- **Name**: Yared Kiros
+- **Student Number**: ATE/7702/14
+
 ![Java Version](https://img.shields.io/badge/Java-21-blue)
 ![Spring Boot Version](https://img.shields.io/badge/Spring%20Boot-3.5.12-blue)
 ![Maven](https://img.shields.io/badge/Maven-3.x-blue)
