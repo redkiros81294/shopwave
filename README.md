@@ -1,4 +1,4 @@
-# shopwaveStarter
+# se4801-assignment1-ATE-7702-14
 
 ## Student Information
 
@@ -12,7 +12,7 @@
 
 ## Project Overview
 
-shopwaveStarter is a production-ready Java Spring Boot application designed as an e-commerce platform foundation. It provides a robust REST API for product management with comprehensive entity relationships, service layer business logic, and proper error handling. The project follows enterprise-grade coding standards with SOLID principles, clean architecture patterns, and extensive test coverage across multiple layers.
+se4801-assignment1-ATE-7702-14 is a production-ready Java Spring Boot application designed as an e-commerce platform foundation. It provides a robust REST API for product management with comprehensive entity relationships, service layer business logic, and proper error handling. The project follows enterprise-grade coding standards with SOLID principles, clean architecture patterns, and extensive test coverage across multiple layers.
 
 ## Technology Stack
 
@@ -48,7 +48,7 @@ shopwaveStarter is a production-ready Java Spring Boot application designed as a
 1. Clone the repository or extract the project archive
 2. Navigate to the project root directory:
    ```bash
-   cd shopwaveStarter
+   cd se4801-assignment1-ATE-7702-14
    ```
 3. Build the project using Maven wrapper:
    ```bash
@@ -96,7 +96,7 @@ When running with `spring.h2.console.enabled=true` (default), access:
 ## Project Structure
 
 ```
-shopwaveStarter/
+se4801-assignment1-ATE-7702-14/
 ├── src/main/
 │   ├── java/com/shopwave/
 │   │   ├── controller/         # REST API controllers
