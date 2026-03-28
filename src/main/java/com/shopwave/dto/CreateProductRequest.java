@@ -1,5 +1,8 @@
 package com.shopwave.dto;
 
+// Name: Yared Kiros
+// ID: ATE/7702/14
+
 import jakarta.validation.constraints.DecimalMin;
 import jakarta.validation.constraints.Min;
 import jakarta.validation.constraints.NotBlank;

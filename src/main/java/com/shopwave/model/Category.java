@@ -1,5 +1,8 @@
 package com.shopwave.model;
 
+// Name: Yared Kiros
+// ID: ATE/7702/14
+
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;

@@ -1,5 +1,8 @@
 package com.shopwave.model;
 
+// Name: Yared Kiros
+// ID: ATE/7702/14
+
 import com.shopwave.enums.OrderStatus;
 import jakarta.persistence.CascadeType;
 import jakarta.persistence.Column;
