@@ -125,6 +125,17 @@ se4801-assignment1-ATE-7702-14/
 │   │       └── ShopwaveStarterApplication.java
 │   └── resources/
 │       └── application.properties
+├── src/test/
+│   ├── java/com/shopwave/
+│   │   ├── ProductControllerTest.java     # Controller unit tests
+│   │   ├── ProductRepositoryTest.java     # Repository integration tests
+│   │   ├── ProductServiceTest.java        # Service unit tests
+│   │   └── shopwavestarter/
+│   │       └── ShopwaveStarterApplicationTests.java  # Context load test
+│   ├── resources/
+│   │   ├── application.properties        # Test configuration
+│   │   └── application-test.properties   # Test-specific properties
+│   └── TestSuiteDocumentation.md         # Test suite documentation
 └── pom.xml
 ```
 
